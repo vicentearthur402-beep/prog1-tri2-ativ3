@@ -11,6 +11,7 @@
 ## 3. Construtores (constructor)
 
 [Meu código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbsqPfiMqlmfXGFTTSfWfL5hihPgDcKABwGCw9bvUr0BAG3oAvE2AFr6AIxHziYABR6T9ACHBvTEAJT4IMD4McDAUrxqGgr4lDYCxN6oJnysAN74YEVgHCaUAkr85owA3IXFXOw2zJWu3LUxxQkycgo+pXzlrXzVADQlzE0t2m2MYWAFXV2kABahAHQD5WAAvCVlAnVLxasbjYTNu-uDh-VFAL6dxezElCPlzD7zi8fdzDaEdbNRg+AAGWwqYAAJHlTsRNgd7uNzs0lDC4ZtJhdmPdQREuo9HqlVFQcswAIxXbiEADuyjJPgARKg1ukDHxSIzRsyFP8BIyIuU+LlyesXm9LAJPmEgA)
+
 4. Instanciação de objetos
 5. Modificadores de acesso (public, private, protected)
 6. Propriedades somente leitura (readonly)
