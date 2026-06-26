@@ -12,40 +12,40 @@
 
 [Meu código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbsqPfiMqlmfXGFTTSfWfL5hihPgDcKABwGCw9bvUr0BAG3oAvE2AFr6AIxHziYABR6T9ACHBvTEAJT4IMD4McDAUrxqGgr4lDYCxN6oJnysAN74YEVgHCaUAkr85owA3IXFXOw2zJWu3LUxxQkycgo+pXzlrXzVADQlzE0t2m2MYWAFXV2kABahAHQD5WAAvCVlAnVLxasbjYTNu-uDh-VFAL6dxezElCPlzD7zi8fdzDaEdbNRg+AAGWwqYAAJHlTsRNgd7uNzs0lDC4ZtJhdmPdQREuo9HqlVFQcswAIxXbiEADuyjJPgARKg1ukDHxSIzRsyFP8BIyIuU+LlyesXm9LAJPmEgA)
 
-4. Instanciação de objetos
+## 4. Instanciação de objetos
 
 [Meu código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbsw9XqQHdK9AQHOAxxIHEwANwF96AQ62F6xXGCgchAM2Z9LbCjQAOiqj0p9Csh9t0GjJgA0YNwkxI4azMGsAEQchCKounysAJf4QtJkcgrKatEiYOEAVgLBlO6esty0ovbOrrRCOnqGhAA2MfggwPj4lO0amkl8KWAA3vhg02Bc7O3MZvzSjADcUzOWfJQCS6R63Gsb0xUyfCKUpLYAFHMdi0X7K8FbO3sHjACUkzO-YKQACxMADo7gswABeWbMebMdZ-GaAkGvIRQlHwmYAXz6+Gx-R4ZFmCRGYyhoQA7mAScxrjE4MwAJ7MWQxQIxVAAwg6dr0Qh8GKfPqncTtQjAhaMW7E5LMUG6HaC-BAA)
 
-5. Modificadores de acesso (public, private, protected)
+## 5. Modificadores de acesso (public, private, protected)
 
 [Meu código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswABxEAjADb1KAGml96ANwHkwFKX2blK5WrjAB5bpKFb1AQ42F5YAOTdmHQi+nNJxQnxgApQkxAK0QpxgAI4iAvKxAWDyIowCfKpCLpRSAGYu+FK+FP6BwaHhQsTUbITcpAZsQpTyAsT+ukGu9BHs3tVg3M2t7RTAYMRyLW3+ANz4IMD4+NPtYAAKocxCAN74YAfScoqUgx6EZvz03Izzh2qa2hQ5uZcN17f7h-qGhMaEtDAPXCF0GIg4sgCd0OlB4-BExmYfAAFO5PG91DdVC8MR9VMD2GZuODIXwAJRgPb3e6kAAW9GIADo0RQALxnTzQ6lgOkMxkvMDsl5c6m8pkEtlA3qEEUAX3w8pWcNI0kFg0IAHcNlsBMiAEToCIcNqkJFgdBDMh2Sj0VgwbZ8EhsVgAOTaNs89WYetUeoAjAAmADMjIALABWABsjIA7AAOACcAFoAAwpn1gIMpsnzJW8ZjyQiM+TMRjIqTM845g7AcaoAKmvPiQvF0vl-l5as18YAUT4jUAKAQPLTkJsFoslssViXV2tgPuDtS-f60ZZAA)
 
-6. Propriedades somente leitura (readonly)
+## 6. Propriedades somente leitura (readonly)
 
 [Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswfQgNo8ANgE9cw7pMLyh9DgAdCkgI4iKQgG4C+9AIemNYYoQBWQgfPKDaLndWJgt3ekp6V3oALwEAc4BjiQ0BABowbhIHKgFxfC1aJIFWHWZJBz4-N0IPAQA6fBBgfHxKTWJfAAU+ApFSVgBvfDA+pOYOQhV+em5GAG5e-ulZBUUweloVbhEOACMyqem+yh5+EUpOvgAKbkHh+1JLccSllbXNvgBKHv73sFIAC3piCvOhmAALwDIZTD79b6-CpLYGLWjg-oAXzq70IAA96Ot6HxWu1OidXjsPnteMx5IQKvJmIwTgADPG0DrMFQAEi6UL+AMISKog3hYHZnJhtCRdOexJR+ClwGAApBADYAOwTMAAWjVYDKbTA+V+OTyBQoRRK7lkQhOszk3CUEvq+1IuratAAjHDkgB3MCM5knABESCYIhuX3SbCEex0Aj9iWVEp0zpdFQxWJxPoJdqAA)
 
-7. Métodos estáticos (static)
+## 7. Métodos estáticos (static)
 
 
 
-8. Propriedades estáticas (static)
-9. Encapsulamento
-10. Herança
-11. Polimorfismo
-12. Abstração
-13. Getters e setters
-14. Classes abstratas (abstract)
-15. Métodos abstratos
-16. Sobrescrita de métodos (override)
-17. Sobrecarga de métodos (method overloading)
-18. Parâmetros opcionais em métodos
-19. Parâmetros padrão
+## 8. Propriedades estáticas (static)
+## 9. Encapsulamento
+## 10. Herança
+## 11. Polimorfismo
+## 12. Abstração
+## 13. Getters e setters
+## 14. Classes abstratas (abstract)
+## 15. Métodos abstratos
+## 16. Sobrescrita de métodos (override)
+## 17. Sobrecarga de métodos (method overloading)
+## 18. Parâmetros opcionais em métodos
+## 19. Parâmetros padrão
 ## 20. Herança simples
 
 [Codigo do professor](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFMBnAFydAGMBngEwCWAcwD2oPkwC2IgHbsATgENQYgK4sxE0AAsmSmQHPFAGlCKAjqoGh5TAA62WTGW0XSWoNiL4iPv0JJuALcAZnq+jNwikmbcinaKXAJ8ilpaXNF6ppyukgBGAJcxAjIhIvKB7qCWnP5ePgHBYfJiDkxJLIqRHPKgqjEymWZiTr0l7IoySakipiKqoE4AVsoyrE5xGnFc2uUtoJxCil4euvIpkt2TXrHainkCADbJqZzpmb2W12Kr7esvaRyeliDhEDgETBSWkGkiYADp8IxIgARJghEoCAwAY80nC4j0ULCcLCR+HxhI8AFk3AJmv4AN74UDMqJyNjyVRcLzyAAUdlUeWeXFAMKYeAUJSEAEpQPSAL6IllRWG8mWMpVKjJyESPeGPERCHkAAwAJPS2NoBCw4aK5QcJsrnD4jVKmSyFQqyQSiaAUIldvJ9kwAB4cGR8Kk0ukedUsgDccfwnvJPoA4scxCGwxHQNTJLTwjG3cyE0nESBIvA2ZNptjcSo8ksmCdSVr2KAjl4AIygAC8IqYAHdQOmvDyAOTQRSd8euttsOIiHv9tbDv07PYiCfQDJsNiz8vASKwVgcEkVsmyDS6uH4piKVX4TtL28fHlzxQvjIq99AA)
 
 [Meu código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4wBQApgM4AuRYAxgM8AmAlgOYD2YdRAtiwHbkBOAQzBsAriTYcwACyJCeAc8EAaMIICOohmH5EADrpJEeZQdxJgyLOiwu21AG1E9bBKi05qwnQWQCX-AzCUgYsAFZEVuyUAG4MdCpglKacAEZ+ngw8AGYs-D7mYJqU9lY2js5sBkRUDCSCBBT8YKKeLpyUgmxGzVnkgjy1gjaqLKJgRmHCPKRG1IISFS4W5dnOCR0mgg5JS-blnH6MbLL8GwRwA1HCPv6BwZShEVFScQlFolds0zWz8cOUKRNLyhAwMIgJKTtIgAOgIIGABDcDgWFm2lRIAG8CGBcdReAJRFQrM0ABR6USpBwMKhgaHoJwufACLJMACUmIAvki8WAnpFrEQsP9SWywNjebz3HwWA5YQ4WExSQADAAkmLI0jqMPpjJYnKS5AAh4ayKIEjxyvyXrF-sq2Ti8dzucjUXskOszMZTDsiAAPCiWtF6iwSvEAbnDBBdVBRJGDlQAshCGGx-YG6AnluLHbjI9GkdLyHsAIxgAC8dKIAHd3Z7Nj7SQAiBCsZpwLWCVhNh1Fsh7ABMFartfRLmTx2bADkiABPHzNCD8HuFgmy2GxoiCfiiqNjlglmHWwXChK7gj7gdH-jhAUcU+Cc8EIA)
 
-21. Cadeia de herança
-22. Tratamento de exceções (throw, try, catch)
-23. Classes e herança de classes de erro
+## 21. Cadeia de herança
+## 22. Tratamento de exceções (throw, try, catch)
+## 23. Classes e herança de classes de erro
