@@ -26,12 +26,24 @@
 
 ## 7. Métodos estáticos (static)
 
-
+[Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswZAaXqViuMHEG8AZsz4cKIjkIBuAvvQF7CAGzAAHQ0MuE+5bpXtghlMwOLEKFbgNb+wgBGAFaEpMwANGDcJN5UnqysAHI6VvaOzq747p7x3DpBLr4Ax6zE1GxJoeGsnFL0+CDA+K25XmCpWnysAN74YINSpDJyMWkAvGAAjNMAdABMrUPDo5RVQYJ8YAAU3LgFHEV8AJT9Kyt84SJ83DFg4EsrAL6tr-hd9sxzhwDcHzovnNaMxNoYdgA2ADs0JObR4ZDAHDAU1iAHdOoCejsTv9WkA)
 
 ## 8. Propriedades estáticas (static)
+
+[Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswZAaXqViuMHEG8AZsz4cKIjkIBuAvvQF7CAGzAAHQ0MuE+5bpXtghlMwOLEKFbgNb+wgBGAFaEpMwANGDcJN5UnqysAHI6VvaOzq747p7x3DpBLr4Ax6zE1GxJoeGsnFL0+CDA+K25XmCpWnysAN74YINSpDJyMWkAvGAAjNMAdABMrUPDo5RVQYJ8YAAU3LgFHEV8AJT9Kyt84SJ83DFg4EsrAL6tr-hd9sxzhwDcHzovnNaMxNoYdgA2ADs0JObR4ZDAHDAU1iAHdOoCejsTv9WkA)
+
 ## 9. Encapsulamento
+
+[Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswhbpQEAHYiIA2AjtNLNcYKMSFyBgsHL7NyjQn2HE2A2s2v1u5Pt3tsKApYxEdhAIwArQg0wYk4pAA96P3pLfUNWGgYWMA07fHwQYAz8ShVia1QeUgEAIQEZA3ohAG98MCM+egA3AXJQzzstbh8-CzAAXjAABgBuDIb2OXt6Er4AClalZj5u3osASjA6hob6ADMwRc8VsAA+Ea3SAAt6YgA6XSU7MABqIaWV8YaAXwmO2QLT6rMA9Dh9PhbHa7A5HYFgAA8Qxud0enWYV1uDyeLwAtB8TnxvrtCEowlQeOIlIR7stGPMAEQwdFgRyKfb0Sj0dSEBkbYl-epgcykZnPZjzKFChp8YIiFypLFo8UC-CC4DAMAIAqsVr0MB+ZYARxEhAMRnsxBapLAHBEtAqAHOBMQADSRThyZYEHGsIYATkDQf9ozAGsRuKkBQoSSYrG4AGPWPsRDJ6Dw9Mw7v4giESKQAIdSSoKZS2Zg5IA)
+
 ## 10. Herança
+
+[Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswAC0KDuAc4G4wAeTABRAB7lutMCR2ShlADYDixQgBow3EparnmNwiYoHCuiqwHd6HARMqZg4wACNmSiEABwFBMABHEXc3MGi+em5yfCSKShDCEXx8EGBi-FNzYjBff0CwAG98MBbbAuV+TMYAbmbW-N5SPhFKUmY+AApuAQ5CDqGugEom1tWwUil6YgA6bgKwAF5bGcJe1YBfYsuKswswACFIoUJtT1pq2oCglf6CyeW+mtgrxmG5tiZmIwJgADFTAdBgAAkDWms3OwVmIgAhNDFoCwJdLkA)
+
 ## 11. Polimorfismo
+
+[Meu Código](https://www.typescriptlang.org/play/?#code/PQKgBAUgqgygKgSQGIIMIEFEDV0C4BQApgM4AuhYAxgM8AmAlgOYD2YthAtswHZkBOAQzCsArsVbswAB2YAbelz4AzesS64wAeW6SRHIUpHcA5wGPWAS6oALAftpCKJcjvoOwnNvSWE+hbuTEVLICxMQk+PggwJH4lCFhYALcCgKyYADe+GA5YNzMHIQa-PTcjADc2bmUPPwilKTMfAAU3LglZQCUWbm9YKTWqgB0+YVgALx5lb0AvpG9NYUt3VV9VLVyhEOyzIzNAAYAJBkDw6OEM2CoBYQiAIQPdwACAMTPb68fH-udq2BzkQB8VCQX0HG8vlYhAAHi5aEFkql0j1qjdlii1jVeJttrsDsdTsQRjdLotbo8wM0KFY9GAwRC+MxHp0fn85nMgA)
+
 ## 12. Abstração
 ## 13. Getters e setters
 ## 14. Classes abstratas (abstract)
@@ -48,4 +60,6 @@
 
 ## 21. Cadeia de herança
 ## 22. Tratamento de exceções (throw, try, catch)
+
+[Meu Código]()
 ## 23. Classes e herança de classes de erro
